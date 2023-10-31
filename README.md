@@ -1,15 +1,16 @@
 # mcc-devops-test-case
-## Тестовое задание для соискателей на позицию DevOps Junior/Basic
+## Test case for DevOps Junior/Basic
 
-## Необходимы
-- Рабочий Docker: https://docs.docker.com/get-docker/
-- Любой Git клиент
-- Любопытство :)
+## Requirements
+- Docker Installed: https://docs.docker.com/get-docker/
+- Any Git client
+- Curiosity :)
 
-## Твоя задача
-- Склонируй этот репозитарий
-- Запусти скрипт
-- Ищи флаг(и) и отправляй HR'у. Флаг имеет вид: 'flag1: somerandomtext'
+## Your task
+- Clone this repo
+- Run `./startme.sh`
+- Catch flag and send it to HR. Hint: 'flag1: somerandomtext'
 
-## Задание со огромной звёздочкой
-- Любимый фильм нашего DevOps'a?
+## Additional task
+- What's the most loved film of our DevOps? 
+Hint: base64
