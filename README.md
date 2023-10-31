@@ -8,7 +8,7 @@
 
 ## Your task
 - Clone this repo
-- Run `./runme.sh`
+- Run `./startme.sh`
 - Catch flag and send it to HR. Hint: 'flag1: somerandomtext'
 
 ## Additional task
